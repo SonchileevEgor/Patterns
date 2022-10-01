@@ -1,0 +1,15 @@
+D:\projects\Паттерны\bin\Debug\net6.0\Паттерны.exe
+D:\projects\Паттерны\bin\Debug\net6.0\Паттерны.deps.json
+D:\projects\Паттерны\bin\Debug\net6.0\Паттерны.runtimeconfig.json
+D:\projects\Паттерны\bin\Debug\net6.0\Паттерны.dll
+D:\projects\Паттерны\bin\Debug\net6.0\Паттерны.pdb
+D:\projects\Паттерны\obj\Debug\net6.0\Паттерны.csproj.AssemblyReference.cache
+D:\projects\Паттерны\obj\Debug\net6.0\Паттерны.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Паттерны\obj\Debug\net6.0\Паттерны.AssemblyInfoInputs.cache
+D:\projects\Паттерны\obj\Debug\net6.0\Паттерны.AssemblyInfo.cs
+D:\projects\Паттерны\obj\Debug\net6.0\Паттерны.csproj.CoreCompileInputs.cache
+D:\projects\Паттерны\obj\Debug\net6.0\Паттерны.dll
+D:\projects\Паттерны\obj\Debug\net6.0\refint\Паттерны.dll
+D:\projects\Паттерны\obj\Debug\net6.0\Паттерны.pdb
+D:\projects\Паттерны\obj\Debug\net6.0\Паттерны.genruntimeconfig.cache
+D:\projects\Паттерны\obj\Debug\net6.0\ref\Паттерны.dll
