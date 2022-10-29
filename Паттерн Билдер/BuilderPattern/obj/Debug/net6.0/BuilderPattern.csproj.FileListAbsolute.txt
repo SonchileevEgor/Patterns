@@ -1,0 +1,15 @@
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\BuilderPattern.csproj.AssemblyReference.cache
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\BuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\BuilderPattern.AssemblyInfoInputs.cache
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\BuilderPattern.AssemblyInfo.cs
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\BuilderPattern.csproj.CoreCompileInputs.cache
+D:\projects\Паттерн Билдер\BuilderPattern\bin\Debug\net6.0\BuilderPattern.exe
+D:\projects\Паттерн Билдер\BuilderPattern\bin\Debug\net6.0\BuilderPattern.deps.json
+D:\projects\Паттерн Билдер\BuilderPattern\bin\Debug\net6.0\BuilderPattern.runtimeconfig.json
+D:\projects\Паттерн Билдер\BuilderPattern\bin\Debug\net6.0\BuilderPattern.dll
+D:\projects\Паттерн Билдер\BuilderPattern\bin\Debug\net6.0\BuilderPattern.pdb
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\BuilderPattern.dll
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\refint\BuilderPattern.dll
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\BuilderPattern.pdb
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\BuilderPattern.genruntimeconfig.cache
+D:\projects\Паттерн Билдер\BuilderPattern\obj\Debug\net6.0\ref\BuilderPattern.dll
